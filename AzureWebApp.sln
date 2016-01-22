@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureWebApp", "AzureWebApp\AzureWebApp.csproj", "{C07BD674-7393-4724-B5AE-367C743176D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureWebApp.Tests", "AzureWebApp.Tests\AzureWebApp.Tests.csproj", "{80433920-1310-4B81-B4AB-F5391C2C828D}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AzureWebAppDB", "AzureWebAppDB\AzureWebAppDB.sqlproj", "{541A7320-ED6E-492B-B41B-95AD8F7BC4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C07BD674-7393-4724-B5AE-367C743176D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07BD674-7393-4724-B5AE-367C743176D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07BD674-7393-4724-B5AE-367C743176D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07BD674-7393-4724-B5AE-367C743176D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80433920-1310-4B81-B4AB-F5391C2C828D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80433920-1310-4B81-B4AB-F5391C2C828D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80433920-1310-4B81-B4AB-F5391C2C828D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80433920-1310-4B81-B4AB-F5391C2C828D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541A7320-ED6E-492B-B41B-95AD8F7BC4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541A7320-ED6E-492B-B41B-95AD8F7BC4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541A7320-ED6E-492B-B41B-95AD8F7BC4B8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{541A7320-ED6E-492B-B41B-95AD8F7BC4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541A7320-ED6E-492B-B41B-95AD8F7BC4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541A7320-ED6E-492B-B41B-95AD8F7BC4B8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://testking123.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AzureWebApp.Tests\\AzureWebApp.Tests.csproj
+		SccProjectName1 = AzureWebApp.Tests
+		SccLocalPath1 = AzureWebApp.Tests
+		SccProjectUniqueName2 = AzureWebApp\\AzureWebApp.csproj
+		SccProjectName2 = AzureWebApp
+		SccLocalPath2 = AzureWebApp
+		SccProjectUniqueName3 = AzureWebAppDB\\AzureWebAppDB.sqlproj
+		SccProjectName3 = AzureWebAppDB
+		SccLocalPath3 = AzureWebAppDB
+	EndGlobalSection
+EndGlobal

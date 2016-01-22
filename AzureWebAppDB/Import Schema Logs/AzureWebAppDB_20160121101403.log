@@ -1,0 +1,10 @@
+1/21/2016 3:44:03 PM	This log contains information about the import schema operation into project 'AzureWebAppDB' on computer 'AMBRISHM' by user 'ambrishm'.
+1/21/2016 3:44:03 PM	Deserializing model
+1/21/2016 3:44:03 PM	Resolving model
+1/21/2016 3:44:04 PM	Visiting imported model for types
+1/21/2016 3:44:04 PM	Scanning project for duplicate elements
+1/21/2016 3:44:04 PM	Finished duplicate element processing
+1/21/2016 3:44:05 PM	Processing extra files
+1/21/2016 3:44:05 PM	Finished importing Data-tier Application file.
+1/21/2016 3:44:05 PM	A summary of the import was saved to the following location: C:\Users\ambrishm\Source\Workspaces\TestKing123\AzureWebApp\AzureWebAppDB\Import Schema Logs\AzureWebAppDB_20160121101403.log
+1/21/2016 3:44:05 PM	Click Finish to continue...
