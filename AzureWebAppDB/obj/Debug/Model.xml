@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DataSchemaModel FileFormatVersion="1.2" SchemaVersion="2.4" DspName="Microsoft.Data.Tools.Schema.Sql.SqlAzureV12DatabaseSchemaProvider" CollationLcid="1033" CollationCaseSensitive="False" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+<DataSchemaModel FileFormatVersion="1.2" SchemaVersion="2.4" DspName="Microsoft.Data.Tools.Schema.Sql.SqlAzureDatabaseSchemaProvider" CollationLcid="1033" CollationCaseSensitive="False" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
 	<Header>
 		<CustomData Category="AnsiNulls">
 			<Metadata Name="AnsiNulls" Value="False" />
@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="AzureWebAppDB.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\AMBRISHM\SOURCE\WORKSPACES\TESTKING123\AZUREWEBAPP\AZUREWEBAPPDB\OBJ\DEBUG\AZUREWEBAPPDB.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\AMBRISHM\DOCUMENTS\GITHUB\AZUREWEBAPP\AZUREWEBAPPDB\OBJ\DEBUG\AZUREWEBAPPDB.DLL" />
 			<Metadata Name="AssemblyName" Value="AzureWebAppDB" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\ambrishm\Source\Workspaces\TestKing123\AzureWebApp\AzureWebAppDB\obj\Debug\AzureWebAppDB.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\ambrishm\Documents\GitHub\AzureWebApp\AzureWebAppDB\obj\Debug\AzureWebAppDB.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
@@ -36,8 +36,6 @@
 			<Property Name="IsFullTextEnabled" Value="True" />
 			<Property Name="ServiceBrokerOption" Value="1" />
 			<Property Name="IsReadCommittedSnapshot" Value="True" />
-			<Property Name="DefaultLanguage" Value="" />
-			<Property Name="DefaultFullTextLanguage" Value="" />
 		</Element>
 		<Element Type="SqlTable" Name="[dbo].[__MigrationHistory]">
 			<Property Name="IsAnsiNullsOn" Value="True" />

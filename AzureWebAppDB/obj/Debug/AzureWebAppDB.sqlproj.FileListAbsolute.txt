@@ -7,3 +7,12 @@ C:\Users\ambrishm\Source\Workspaces\TestKing123\AzureWebApp\AzureWebAppDB\obj\De
 C:\Users\ambrishm\Source\Workspaces\TestKing123\AzureWebApp\AzureWebAppDB\obj\Debug\predeploy.sql
 C:\Users\ambrishm\Source\Workspaces\TestKing123\AzureWebApp\AzureWebAppDB\obj\Debug\AzureWebAppDB.dll
 C:\Users\ambrishm\Source\Workspaces\TestKing123\AzureWebApp\AzureWebAppDB\obj\Debug\AzureWebAppDB.pdb
+C:\Users\ambrishm\Documents\GitHub\AzureWebApp\AzureWebAppDB\bin\Debug\AzureWebAppDB.dacpac
+C:\Users\ambrishm\Documents\GitHub\AzureWebApp\AzureWebAppDB\bin\Debug\AzureWebAppDB.dll
+C:\Users\ambrishm\Documents\GitHub\AzureWebApp\AzureWebAppDB\bin\Debug\AzureWebAppDB.pdb
+C:\Users\ambrishm\Documents\GitHub\AzureWebApp\AzureWebAppDB\obj\Debug\Model.xml
+C:\Users\ambrishm\Documents\GitHub\AzureWebApp\AzureWebAppDB\obj\Debug\refactor.xml
+C:\Users\ambrishm\Documents\GitHub\AzureWebApp\AzureWebAppDB\obj\Debug\postdeploy.sql
+C:\Users\ambrishm\Documents\GitHub\AzureWebApp\AzureWebAppDB\obj\Debug\predeploy.sql
+C:\Users\ambrishm\Documents\GitHub\AzureWebApp\AzureWebAppDB\obj\Debug\AzureWebAppDB.dll
+C:\Users\ambrishm\Documents\GitHub\AzureWebApp\AzureWebAppDB\obj\Debug\AzureWebAppDB.pdb
